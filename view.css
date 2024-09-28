@@ -1,0 +1,39 @@
+table,th,td{
+    border: 1px solid;
+    border-radius: 6px;
+}
+body{
+    text-align: justify;
+    border: 10px;
+    padding: 90px;
+    background-color: slategray;
+}
+td{
+    text-align: left;
+    padding: 4px;
+}
+th{
+    padding: 4px 10px;
+}
+.action-btn{
+    background-color: rgb(65, 65, 224);
+    color: black;
+    width: 40%;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+table{
+    width: 90%;
+}
+.delete-btn{
+    background-color: rgb(236, 48, 48);
+    color: black;
+    width: 40%;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+button{
+    background-color: greenyellow;
+    cursor: pointer;
+    border-radius: 1rem;
+}
